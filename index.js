@@ -39,7 +39,7 @@ function startApp(event) {
         <div class="command__item" style="display: flex; gap: 9px; align-items: center;  margin: 1px; padding: 0;"><span class="command__item-span" style="font-size: 19px; font-weight: 600; color: #fff;">$help</span>To view the full list of commands</div>
         <div class="command__item" style="display: flex; gap: 9px; align-items: center;  margin: 1px; padding: 0;"><span class="command__item-span" style="font-size: 19px; font-weight: 600; color: #fff;">$clear</span>Clear the line and the result</div>
         <div class="command__item" style="display: flex; gap: 9px; align-items: center;  margin: 1px; padding: 0;"><span class="command__item-span" style="font-size: 19px; font-weight: 600; color: #fff;">$cls</span>This is a short clear command</div>
-        <div class="command__item" style="display: flex; gap: 9px; align-items: center;  margin: 1px; padding: 0;"><span class="command__item-span" style="font-size: 19px; font-weight: 600; color: #fff;">$getIP</span>Get my IP address</div>
+        <div class="command__item" style="display: flex; gap: 9px; align-items: center;  margin: 1px; padding: 0;"><span class="command__item-span" style="font-size: 19px; font-weight: 600; color: #fff;">$getIP</span>To check the concealed IP address and actions on this website, changing the IP each time to a new one</div>
         </div>
       `;
       
